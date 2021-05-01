@@ -2,7 +2,7 @@
 - 😄  More about me: https://zack921.github.io/
 - 📫  How to reach me: zackguo1996@163.com
 
-![前端之路](assets/imgs/me.jpg) 
+[![前端之路](assets/imgs/me.jpg "前端之路")](https://zack921.github.io/)
 
 <!-- - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
